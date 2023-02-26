@@ -1,0 +1,6 @@
+To send the updates of local branch to its counterpart we can use the follwing command:
+
+1. first of all switch to that local branch whose content you want to push to its remote counterpart
+    i.e  local-branch-content --> remote-branch-content
+
+2. SYNTAX: git push <local-branch-name>:<remote-branch-name>
