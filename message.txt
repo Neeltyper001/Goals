@@ -1,0 +1,2 @@
+Upstream basically refers to the something which points 'to where it is originated from'
+In git and github it has two contexts: 1. As a repo and 2. As a branch
